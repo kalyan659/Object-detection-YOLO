@@ -3,6 +3,10 @@
 
 This repository provides a Python script for real-time object detection using the YOLOv8s model. The script captures video from your webcam and detects objects within the frames.
 
+
+https://github.com/user-attachments/assets/5fa89601-032a-45d6-9633-b069b2b5531b
+
+
 ## Requirements:
 
 Python 3.x
